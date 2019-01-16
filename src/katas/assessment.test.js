@@ -27,7 +27,6 @@ describe('Challenge', () => {
 
 
 
-// let assert = require("chai").assert;
 describe('Challenge', function() {
   
   it('should use "st" suffix with number ending in 1', () => {
@@ -75,7 +74,6 @@ describe('Challenge', function() {
 
 
 
-// let assert = require("chai").assert;
 describe('Challenge', function() {
   it('should work for null or undefined input', function() {
     expect(calculate(null)).toBe(0);
