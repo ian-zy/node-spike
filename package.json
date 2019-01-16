@@ -1,8 +1,8 @@
 {
-  "name": "koa-spike",
+  "name": "node-spike",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "build": "tsc",
     "clear": "rm -rf out",
